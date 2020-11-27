@@ -18,6 +18,6 @@ while roll_again == "yes" or roll_again == "Y" or roll_again == "y" or roll_agai
         print("You rolled a doubled !")
     else:
         print("Keep trying !")
-    roll_again = input("\nRoll the dice agaon? (Y/N)")
+    roll_again = input("\nRoll the dice again? (Y/N)")
 
 
